@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.fantastatic.cod4mt</id>
+<name>COD4MT</name>
+<version>1.0</version>
+<publisher>Felipe Apostol</publisher>
+<url>http://www.fantastatic.com</url>
+<description>COD4 Map Tactics</description>
+<copyright>2010 by Felipe Apostol</copyright>
+<icon>icon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>4f1d8c0a-b002-4b9f-8fd5-c4d0c576abad</guid>
+</ti:app>
